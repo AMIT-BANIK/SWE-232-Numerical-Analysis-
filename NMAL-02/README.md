@@ -1,4 +1,4 @@
-# **Comparison between Bisection and False method **
+# *Comparison between Bisection and False method *
 
 The False Position method is faster than the Bisection method.It also requires fewer iterations.
 
